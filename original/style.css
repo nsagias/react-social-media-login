@@ -84,3 +84,10 @@ input:hover {
   background-color: #000000;
   color: white;
 }
+
+input[type=submit] {
+  background-color: #55ACEE;
+  color: white;
+  cursor: pointer;
+  /* border: none; */
+}
