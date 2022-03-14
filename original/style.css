@@ -96,3 +96,18 @@ input[type=submit] {
 input[type=submit]:hover {
   background-color: #40a1eb;
 }
+
+
+.col {
+  float: left;
+  width: 50%;
+  margin: auto;
+  padding: 0 50px;
+  margin-top: 6px;
+}
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
