@@ -59,3 +59,28 @@ input:hover {
 .btn:hover {
   opacity: 1;
 }
+
+.fb {
+  background-color: #3B5998;
+  color: white;
+}
+
+.instagram {
+  background-color: #55ACEE;
+  color: white;
+}
+
+.google {
+  background-color: #dd4b39;
+  color: white;
+}
+
+.youtube {
+  background-color: #dd4b39;
+  color: white;
+}
+
+.tiktok {
+  background-color: #000000;
+  color: white;
+}
