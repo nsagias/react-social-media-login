@@ -139,3 +139,20 @@ input[type=submit]:hover {
   background-color: #666;
   border-radius: 0px 0px 4px 4px;
 }
+
+@media screen and (max-width: 650px) {
+  .col {
+    width: 100;
+    margin-top: 0;
+  }
+
+  .vertical-line {
+    display: none;
+  }
+
+  .hide-on-md-lg {
+    display: block;
+    text-align: center;
+  }
+
+}
