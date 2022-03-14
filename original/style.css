@@ -36,6 +36,11 @@ body {
   text-decoration: none;
 }
 
+input:hover {
+  opacity: 1;
+}
+
+
 /* TODO rename button styles */
 .btn {
   width: 100%;
@@ -48,4 +53,9 @@ body {
   font-size: 17px;
   line-height: 20px;
   text-decoration: none;
+}
+
+
+.btn:hover {
+  opacity: 1;
 }
